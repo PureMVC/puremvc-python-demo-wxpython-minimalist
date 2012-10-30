@@ -9,7 +9,7 @@ when you hit the ENTER key in the GUI.
 * [Discussion](http://forums.puremvc.org/index.php)
 
 ## Status
-Production - [Version 1.0](https://github.com/PureMVC/puremvc-python-demo-minimalist/blob/master/VERSION)
+Production - [Version 1.0](https://github.com/PureMVC/puremvc-python-demo-wxpython-minimalist/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [wxPython](http://en.wikipedia.org/wiki/wxPython)
