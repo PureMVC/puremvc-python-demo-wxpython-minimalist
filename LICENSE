@@ -1,21 +1,3 @@
-## [PureMVC](http://puremvc.github.com/) [Python](https://github.com/PureMVC/puremvc-python-standard-framework/wiki) Demo: Minimalist
-This demo illustrates the simplest way (that Andy could think of) to build a
-PureMVC application in python using wxPython as the GUI. A string in the model
-is displayed in the GUI in a textfield. Anything you type gets converted to
-uppercase and stored back in the model, courtesy of a command class triggered
-when you hit the ENTER key in the GUI.
-
-* [Andy Bulka Explains the Demo](http://www.andypatterns.com/index.php/blog/puremvc_minimal_wxpython/)
-* [Discussion](http://forums.puremvc.org/index.php)
-
-## Status
-Production - [Version 1.0](https://github.com/PureMVC/puremvc-python-demo-minimalist/blob/master/VERSION)
-
-## Platforms / Technologies
-* [wxPython](http://en.wikipedia.org/wiki/wxPython)
-* [Python](http://en.wikipedia.org/wiki/Python_(programming_language\))
-
-## License
 * PureMVC Python / wxPython Demo - Minimalist - Copyright © 2009 Andy Bulka
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.

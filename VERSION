@@ -1,0 +1,11 @@
+PureMVC Python / wxPython Demo - Minimalist
+--------------------------------------------------------------------------
+Release Date: 03/15/09
+    Platform: Python 2.5  
+     Version: 1
+    Revision: 0
+      Author: Andy Bulka <andy.bulka@puremvc.org>
+--------------------------------------------------------------------------
+1.0 - Split classes into separate files into src folder.  Original version with all the classes in the one file found in src_in_one_file folder. And a simpler version with no startup command, all in one file is included as well.
+
+0.9 - Initial version.  Hit ENTER to trigger the command to convert to uppercase.  Watch the stdout messages for useful diagnostics.
